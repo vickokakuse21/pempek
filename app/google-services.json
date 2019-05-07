@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "939457453171",
+    "firebase_url": "https://yupop-c1bed.firebaseio.com",
+    "project_id": "yupop-c1bed",
+    "storage_bucket": "yupop-c1bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939457453171:android:84de3d6db49b2f06",
+        "android_client_info": {
+          "package_name": "com.example.pempek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939457453171-hlr40fn7uehu13bceju3jl50bbas50sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pempek",
+            "certificate_hash": "e7b28e1717b250872395a4fd04edfd479d730793"
+          }
+        },
+        {
+          "client_id": "939457453171-fnlq4m17o07nfi5kf2dt559m90en3m6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOb4-LEg8Ewh-QFI7QSwlMEIc7oGf9zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939457453171-fnlq4m17o07nfi5kf2dt559m90en3m6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
